@@ -289,4 +289,6 @@ The scheduler correctly selected the least-loaded worker in every test.
 
 **Module:** Load Balancing
 
-**Captain:** Nithin Goli"# least-loaded-worker-bug-fix" 
+**Captain:** Nithin Goli 
+
+"# least-loaded-worker-bug-fix" 
